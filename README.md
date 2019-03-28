@@ -1,0 +1,2 @@
+# mypy
+Learning PythonFrom Strach
